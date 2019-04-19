@@ -60,5 +60,5 @@ Please don't forget to change the IP address in the code so you can play on your
  #### Project realised by:
 - **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
 - **Antoine Pelletant : [antoine.pelletant@epitech.eu](https://github.com/yabou)**
-- **Kellian Cipierre : [kellian.cipierre@cipierre.eu](https://github.com/K6PIR)**
+- **Kellian Cipierre : [kellian.cipierre@epitech.eu](https://github.com/K6PIR)**
 - **Thomas Bleneau : [thomas.bleneau@epitech.eu](https://github.com/TBlenoX)**
