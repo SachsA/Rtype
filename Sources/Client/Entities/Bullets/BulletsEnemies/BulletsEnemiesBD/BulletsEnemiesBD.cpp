@@ -1,0 +1,28 @@
+/*
+** EPITECH PROJECT, 2021
+** CPP_rtype_2018
+** File description:
+** Created by Thomas BLENEAU
+*/
+
+#include "BulletsEnemiesBD.hpp"
+
+BulletsEnemiesBD::BulletsEnemiesBD()
+        : AEntityClient("bulletsEnemiesBD")
+{
+    setAssetPath("../Ressources/Effects/Assets/enemy_big_bullet_1.png");
+    setPosition(0, 0);
+    setSize(100, 41);
+    setSoundName(SHOT_ENEMY_SOUND());
+}
+
+extern "C" {
+#ifdef _WIN32
+__declspec(dllexport) AEntityClient *buildEngine()
+#elif defined (linux)
+AEntityClient *buildEngine()
+#endif
+{
+    return new BulletsEnemiesBD();
+}
+}

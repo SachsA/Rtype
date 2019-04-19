@@ -1,0 +1,17 @@
+[requires]
+sfml/2.5.1@bincrafters/stable
+
+[options]
+#libalsa:disable_python=True
+sfml:shared=True
+sfml:window=True
+sfml:audio=True
+sfml:network=True
+sfml:graphics=True
+
+[generators]
+cmake
+
+[imports]
+bin, *.dll -> ./
+lib, *.dylib* -> ./

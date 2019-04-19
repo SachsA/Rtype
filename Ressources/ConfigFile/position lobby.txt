@@ -1,0 +1,27 @@
+BUTTON CLOSE SHIP BLUE
+  - top left : [ x = 446  ; y = 266 ]
+  - bottom left : [ x = 446 ; y = 302 ]
+  - top right : [ x = 482 ; y = 266 ]
+  - bottom right : [ x = 482 ; y = 302 ]
+  - taille = 36x36
+
+BUTTON CLOSE SHIP RED
+  - top left : [ x =  854 ; y = 613 ]
+  - bottom left : [ x = 854 ; y = 649 ]
+  - top right : [ x = 890 ; y = 613 ]
+  - bottom right : [ x = 890 ; y = 649 ]
+  - taille = 36x36
+
+BUTTON CLOSE SHIP GREEN
+  - top left : [ x =  1704 ; y = 613 ]
+  - bottom left : [ x = 1704 ; y = 649 ]
+  - top right : [ x = 1740 ; y = 613 ]
+  - bottom right : [ x = 1740 ; y = 649 ]
+  - taille = 36x36
+
+BUTTON CLOSE SHIP YELLOW
+  - top left : [ x =  1304 ; y = 266 ]
+  - bottom left : [ x = 1304 ; y = 302 ]
+  - top right : [ x = 1340 ; y = 266 ]
+  - bottom right : [ x = 1340 ; y = 302 ]
+  - taille = 36x36
