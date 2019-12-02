@@ -58,7 +58,7 @@ The **Rtype** is composed with two main parts : the back developped in **C++** m
 Please don't forget to change the IP address in the code so you can play on your server.
 
  #### Project realised by:
-- **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
+- **Alexandre Sachs : [alexandre.sachs@outlook.fr](https://github.com/SachsA)**
 - **Antoine Pelletant : [antoine.pelletant@epitech.eu](https://github.com/yabou)**
 - **Kellian Cipierre : [kellian.cipierre@epitech.eu](https://github.com/K6PIR)**
 - **Thomas Bleneau : [thomas.bleneau@epitech.eu](https://github.com/TBlenoX)**
